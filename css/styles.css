@@ -33,7 +33,8 @@ a{
 }
 
 .order-button{
-    color: #4D5AE5;
+    background-color: #4D5AE5;
+    color: #FFFFFF;
     font-weight: 500;
     letter-spacing: 4%;
 }
