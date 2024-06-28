@@ -1,7 +1,9 @@
 body{
     font-family: 'Roboto';
     color:#2E2F42;
-    background-color: #E7E9FC;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
 }
 
 ul{
@@ -10,4 +12,17 @@ ul{
 
 a{
     text-decoration: none;
+}
+
+.page-head{
+    background-color: #E7E9FC;
+}
+
+.navigation a:hover{
+    color: #404BBF;
+}
+
+.page-title{
+    font-size: 56px;
+    line-height: 60px;
 }
