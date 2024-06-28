@@ -19,6 +19,7 @@ a{
     background-color: #E7E9FC;
 }
 
+.navigation .links:focus,
 .navigation .links:hover{
     color: #404BBF;
 }
@@ -59,13 +60,20 @@ a{
 }
 .logo-span{
     color: #2e2f42;
-    
+
 }
 
 .links{
     color: #2E2F42;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    color: #404bbf;
 }
 
 .foot-section{
     background-color: #2E2F42;
+}
+
+address{
+    font-style: normal;
 }
