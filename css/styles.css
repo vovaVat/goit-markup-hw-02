@@ -18,7 +18,7 @@ a{
     background-color: #E7E9FC;
 }
 
-.navigation a:hover{
+.navigation .links:hover{
     color: #404BBF;
 }
 
@@ -37,4 +37,27 @@ a{
     color: #FFFFFF;
     font-weight: 500;
     letter-spacing: 4%;
+}
+
+.section-header{
+    font-size: 36px;
+}
+
+.subtitle{
+    font-size: 20px;
+}
+
+.logo{
+    color:#FFFFFF;
+}
+.logo-span{
+    color:#4D5AE5;
+}
+
+.links{
+    color: #2E2F42;
+}
+
+.foot-section{
+    background-color: #2E2F42;
 }
