@@ -33,7 +33,7 @@ a{
 }
 
 .header-section{
-    background-color: #2E2F42;
+    background-color: #F4F4FD;
 }
 
 .order-button{
@@ -56,6 +56,11 @@ a{
 
 .subtitle{
     font-size: 20px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
 }
 
 .logo{
