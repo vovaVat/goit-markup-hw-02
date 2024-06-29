@@ -52,6 +52,11 @@ a{
 
 .section-header{
     font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
 }
 
 .subtitle{
@@ -91,13 +96,4 @@ a{
 address{
     font-style: normal;
     color: #434455;
-}
-
-.section-h2{
-    font-size: 36px;
-    line-height: 1.11;
-    text-align: center;
-    letter-spacing: 0.02em;
-    text-transform: capitalize;
-    color: #2e2f42;
 }
