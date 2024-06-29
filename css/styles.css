@@ -24,8 +24,8 @@ a{
     color: #404BBF;
 }
 
-.navigation .links-adr:focus,
-.navigation .links-adr:hover{
+.links-adr:focus,
+.links-adr:hover{
     color: #404bbf ;
 }
 
