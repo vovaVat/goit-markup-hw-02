@@ -26,8 +26,9 @@ a{
 
 .page-title{
     font-size: 56px;
-    line-height: 60px;
     color: #FFFF;
+    line-height: 1.07;
+    text-align: center;
 }
 
 .header-section{
