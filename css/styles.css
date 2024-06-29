@@ -24,6 +24,11 @@ a{
     color: #404BBF;
 }
 
+.navigation .links-adr:focus,
+.navigation .links-adr:hover{
+    color: #404BBF;
+}
+
 .page-title{
     font-size: 56px;
     color: #FFFF;
@@ -87,7 +92,12 @@ a{
     color: #2e2f42;
     font-weight: 500;
     letter-spacing: 0.02em;
-    color: #404bbf;
+}
+
+.links-adr{
+    color:  #434455;
+    font-weight: 500;
+    letter-spacing: 0.02em;
 }
 
 .foot-section{
