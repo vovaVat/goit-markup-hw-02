@@ -110,5 +110,14 @@ address{
 
 .paragraf{
     letter-spacing: 0.02em;
-    
+
+}
+
+.footer-par{
+    letter-spacing: 0.02em;
+    color: #F4F4FD;
+}
+
+.logo-span-foot{
+    color: #f4f4fd;
 }
