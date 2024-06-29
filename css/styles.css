@@ -72,6 +72,7 @@ a{
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+    font-weight: 500;
 }
 
 .logo{
@@ -143,4 +144,8 @@ address{
 
 .li-3{
     background-color: #FFFFFF;
+}
+
+.par-2{
+    letter-spacing: 0.02em;
 }
