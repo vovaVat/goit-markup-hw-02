@@ -134,13 +134,3 @@ address{
 .li-3{
     background-color: #FFFFFF;
 }
-
-.section-header-3{
-    font-size: 36px;
-    line-height: 1.2;
-    text-align: center;
-    letter-spacing: 0.02em;
-    text-transform: capitalize;
-    color: #2e2f42;
-    font-weight: 500;
-}
